@@ -4,7 +4,7 @@ WeatherApp makes it easy to check the weather anywhere—see real-time temperatu
 # Demo 🎥 
 Click below to watch the demo!
 
-[▶️ Watch Demo](WeatherApp-DEMO.mov)
+[▶️ Watch Demo](https://youtu.be/W96xYB1hLvg)
 
 # How to Run 👩🏻‍💻
 Make sure you have Python installed. Then run this command in your terminal
